@@ -1,7 +1,8 @@
-Definition:
+# Definition:
 - HEAD: c'est le pointeur/curseur correspondant a notre dernier commit sur notre branche actuelle (mais le HEAD peut etre deplace sur un ancien commit)
 - origin: Un alias qui par convention s'appelle 'origin'. Cet alias est le repository distant vers lequel on veut pusher. Mais il pourrait etre different, liste: `git remote`
 
+# Commandes
 ``` bash
 # Config globale
 git config
